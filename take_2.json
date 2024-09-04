@@ -1,0 +1,20 @@
+{
+      "car": {
+            "Percentage": 40.0,
+            "Account": "bank",
+            "Current Balance": 40.0,
+            "Time": "Wednesday Jul 24 05:05 PM"
+      },
+      "food": {
+            "Percentage": 10.0,
+            "Account": "piggy",
+            "Current Balance": 20.0,
+            "Time": "Wednesday Jul 24 05:06 PM"
+      },
+      "rent": {
+            "Percentage": 50.0,
+            "Account": "cash",
+            "Current Balance": 150.0,
+            "Time": "Wednesday Jul 24 05:06 PM"
+      }
+}
